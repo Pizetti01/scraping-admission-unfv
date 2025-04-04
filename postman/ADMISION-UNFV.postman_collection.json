@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "https://web4.unfv.edu.pe/Resultado_Admision/2023/pregrado_general/",
+			"name": "https://web4.unfv.edu.pe/Resultado_Admision/2024/pregrado_general/",
 			"request": {
 				"method": "POST",
 				"header": [],
